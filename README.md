@@ -1,20 +1,20 @@
-## Installation :
+## Kurulum :
 
 * `sudo apt update`
 * `sudo apt install git curl php wget -y`
 * `git clone https://github.com/fridayonline/InstaReporter.git`
 * `cd InstaReporter`
-#### > Run : `python3 InstaReporter.py`
+#### > Başlatmak İçin : `python3 InstaReporter.py`
 
-## Single Command :
+## Tek Komut :
 ```
 sudo apt update ; sudo apt install git curl wget php -y ; git clone https://github.com/fridayonline/InstaReporter.git ; cd InstaReporter ; python3 InstaReporter.py
 ```
 <br>
 
-### <<< If you copy , Then Give me The Credits >>>
+### <<< çalmak yasak >>>
 
-## Features :
+## Özellikler :
 #### [+] Latest Report Method !
 #### [+] Based On Proxies !
 #### [+] Easy for Beginners !
