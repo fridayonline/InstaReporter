@@ -15,9 +15,9 @@ sudo apt update ; sudo apt install git curl wget php -y ; git clone https://gith
 ### <<< çalmak yasak >>>
 
 ## Özellikler :
-#### [+] Latest Report Method !
-#### [+] Based On Proxies !
-#### [+] Easy for Beginners !
+#### [+] En Son Rapor Yöntemi !
+#### [+] Proxy'lere Dayalı !
+#### [+] Yeni Başlayanlar için Kolay !
  
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
