@@ -2,7 +2,7 @@
 
 * `apt update`
 * `apt install git curl php wget -y`
-* `git clone https://github.com/muneebwanee/InstaReporter.git`
+* `git clone https://github.com/fridayonline/InstaReporter.git`
 * `cd InstaReporter`
 #### > Run : `python3 InstaReporter.py`
 
