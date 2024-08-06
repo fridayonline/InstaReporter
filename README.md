@@ -8,7 +8,7 @@
 
 ## Tek Komut :
 ```
-sudo apt update ; sudo apt install git curl wget php -y ; git clone https://github.com/fridayonline/InstaReporter.git ; cd InstaReporter ; python3 InstaReporter.py
+sudo apt update ; sudo apt install git curl wget php -y ; git clone https://github.com/mentalite/InstaReporter.git ; cd InstaReporter ; python3 InstaReporter.py
 ```
 <br>
 
