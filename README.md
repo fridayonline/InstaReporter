@@ -24,5 +24,5 @@ sudo apt update ; sudo apt install git curl wget php -y ; git clone https://gith
 <a href="https://github.com/mentalitexd"><img title="Followers" src="https://img.shields.io/github/followers/mentalitexd?color=blue&style=flat-square"></a>
 <a href="https://twitter.com/mentalitexd"><img title="Contributer" src="https://img.shields.io/twitter/follow/mentalitexd?label=%40fridayonline0&style=social"></a>
 <a href="https://instagram.com/mentalitexd"><img title="Instagram" src="https://img.shields.io/badge/IG-%40mentalitexd-red?style=for-the-badge&logo=instagram"></a>
-<a href="https://github.com/mentalitexd"><img title="GitHub" src="https://img.shields.io/badge/Github-fridayonline--green?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/mentalitexd"><img title="GitHub" src="https://img.shields.io/badge/Github-mentalitexd--green?style=for-the-badge&logo=github"></a>
 </p>
